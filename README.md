@@ -2,6 +2,8 @@
 
 A template for creating custom themes for SimpleTuner WebUI.
 
+<img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/a02fc138-522b-4ff4-83dc-8fab3b0cc619" />
+
 ## Installation Methods
 
 ### Method 1: Pip Install (Recommended)
